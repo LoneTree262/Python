@@ -71,7 +71,7 @@ print("\nThe number of observations is:",len(df_linear['x']),
 
 
 """ writing to csv
-df_linear.to_csv("C:/Users/eric.reschke/Desktop/df_linear.csv")
+df_linear.to_csv("C:/~df_linear.csv")
 """
 
 
